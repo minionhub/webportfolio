@@ -1270,24 +1270,28 @@ section {
   height: unset;
 }
 
+.resume-item h5 {
+  line-height: 2rem;
+}
+
 .portfolio-wrap:hover .hoverlength1 {
-  top: -35.5rem;
+  top: -29.5rem;
 }
 
 .portfolio-wrap:hover .hoverlength2 {
-  top: -66rem;
+  top: -28.5rem;
 }
 
 .portfolio-wrap:hover .hoverlength3 {
-  top: -1.4rem;
+  top: -6.8rem;
 }
 
 .portfolio-wrap:hover .hoverlength4 {
-  top: -51rem;
+  top: -35.6rem;
 }
 
 .portfolio-wrap:hover .hoverlength5 {
-  top: -67rem;
+  top: -65rem;
 }
 
 .portfolio-wrap:hover .hoverlength6 {
@@ -1295,11 +1299,56 @@ section {
 }
 
 .portfolio-wrap:hover .hoverlength7 {
-  top: -80.85rem;
+  top: -4.5rem;
 }
 .portfolio-wrap:hover .hoverlength8 {
-  top: -80.85rem;
+  top: -55rem;
 }
 .portfolio-wrap:hover .hoverlength9 {
-  top: -80.85rem;
+  top: -42rem;
+}
+.portfolio-wrap:hover .hoverlength10 {
+  top: -62rem;
+}
+.portfolio-wrap:hover .hoverlength11 {
+  top: -68rem;
+}
+.portfolio-wrap:hover .hoverlength12 {
+  top: -22rem;
+}
+
+.portfolio-wrap:hover .hoverlength13 {
+  top: -21rem;
+}
+
+.portfolio-wrap:hover .hoverlength14 {
+  top: -60rem;
+}
+
+.portfolio-wrap:hover .hoverlength15 {
+  top: -43rem;
+}
+
+.portfolio-wrap:hover .hoverlength16 {
+  top: -21rem;
+}
+
+.portfolio-wrap:hover .hoverlength17 {
+  top: -4rem;
+}
+
+.portfolio-wrap:hover .hoverlength18 {
+  top: -120rem;
+}
+
+.portfolio-wrap:hover .hoverlength19 {
+  top: -25rem;
+}
+
+.portfolio-wrap:hover .hoverlength20 {
+  top: -16rem;
+}
+
+.portfolio-wrap:hover .hoverlength21 {
+  top: -45rem;
 }
